@@ -1,8 +1,32 @@
 #board {
   margin-top: 10px;
+  margin-bottom: 10px;
 }
-
 .box {
   border: 1px solid black;
   height: 150px;
+  font-size: 90px;
+  padding: 38px 0;
+  background-color: yellow;
+}
+  }
+  table.board {
+    border: 1px solid black;
+    height: 600px;
+    width: 600px;
+  }
+  body {
+    text-align: center;
+    align: center;
+    background-color: blue;
+  }
+  td {
+    height: 200px;
+    width: 200px;
+  }
+.X {
+  color: black;
+}
+.O {
+  color: black;
 }
